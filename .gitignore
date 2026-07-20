@@ -1,0 +1,28 @@
+# Dependencies & build
+node_modules/
+dist/
+dist-ssr/
+build/
+coverage/
+*.tsbuildinfo
+
+# Logs & caches
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+*.local
+
+# Test / tooling artifacts
+test-results/
+playwright-report/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editor
+.idea/
+.vscode/
+
